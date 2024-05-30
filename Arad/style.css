@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Amatic+SC:wght@400;700&family=Changa:wght@200..800&family=Concert+One&family=Indie+Flower&family=Lilita+One&family=Permanent+Marker&family=Poetsen+One&display=swap');header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #ffffff;
+}
+
+.a{
+    text-decoration: none;
+}
+div ul a{
+    text-decoration: none;
+    list-style: none;
+}
+
+header ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+header ul li{
+    font-family: 'acme';
+    margin: 30px;
+    font-size: 20px;
+}
+
+
+img{
+    width: 150px;
+}
+
+h1{
+    font-size: 44px;
+    color: #ffffff;
+    font-family: 'Indie flower';
+}
+
+p{
+    font-size: 16px;
+    color: #ece9e9;
+    font-family: 'changa';
+}
+
+.presenta{
+    display: flex;
+    flex-direction: column;
+    
+    padding: 40px;
+    justify-content: center;
+    text-align: center;
+    font-family: 'poetsen one';
+    color: beige;
+}
+
+
+.main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    margin: 40px 0px 40px 0px;
+    padding: 10px;
+    background-color: #10135a;
+}
+
+.box{
+    display: flex;
+    height: 50%;
+    width: 100%;
+    padding: 10px;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.box img{
+    border-radius: 50%;
+}
+
+
+.box p{
+    font-size: 16px;
+}
+
+footer{
+    padding: 10px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    background-color: #ffffff;
+}
+
+.redes{
+    display: flex;
+    justify-content: center;
+}
+.box2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-family: 'Amatic sc';
+    font-size: 24px;
+    font-style: unset;
+}
+
+.frame{
+    display: flex;
+    justify-content: center;
+}

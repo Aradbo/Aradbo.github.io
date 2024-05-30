@@ -1,0 +1,20 @@
+img{
+    display: flex;
+    flex: content;
+    align-content: center;
+    justify-content: center;
+}
+
+.boton{
+    display: flex;
+   align-content: center;
+   justify-content: center;
+}
+
+div{
+    width: 100%;
+}
+
+hr{
+    color: black;
+}
